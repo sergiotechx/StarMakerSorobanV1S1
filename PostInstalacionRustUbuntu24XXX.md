@@ -2,7 +2,7 @@
 
 Copy
 
-```plaintext
+```bash
 sudo nano /etc/apt/sources.list.d/jammy.list
 ```
 
