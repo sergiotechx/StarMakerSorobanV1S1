@@ -39,7 +39,7 @@ Es un contrato con su respectivo test automatizado
 
       **Función resultado\_anterior()->resultado\_anerior**
 
-Se ejecuta el test con la siugiente instrucción:
+Se ejecuta el test con la siguiente instrucción:
 
 ```plaintext
 cargo test
