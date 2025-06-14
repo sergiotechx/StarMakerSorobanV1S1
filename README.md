@@ -1,7 +1,10 @@
-# StarMakerSorobanV1S1
-Workshop para BAF, programa StarMaker Workshop sesion 1 V1.0 
+## StarMakerSorobanV1S1
 
-**Lo primero es instalar y configurar el software necesario para poder ejecutar lo que necesitamos**
+Workshop para BAF, programa StarMaker Workshop sesion 1 V1.0
+
+---
+
+Lo primero es instalar y configurar el software necesario para poder ejecutar lo que necesitamos
 
 **Instalaciones:**
 
@@ -10,10 +13,10 @@ Workshop para BAF, programa StarMaker Workshop sesion 1 V1.0
 *   [🚊NVM](https://github.com/sergiotechx/StarMakerSorobanV1S1/blob/main/instalaciones/nvm.md)
 *   [🌐Node Js](https://github.com/sergiotechx/StarMakerSorobanV1S1/blob/main/instalaciones/NodeJS.md)
 
-**Fundamentos de RUST 🦀**
+---
 
-Todo el código lo correremos en el playground de Rust, no necesitamos instalar absolutamente nada
+Dado que Rust no es similar a los lenguajes derivados de C, aprendamos algo de Rust primero
 
-[**https://play.rust-lang.org/**](https://play.rust-lang.org/)
+[**Fundamentos de RUST 🦀**](https://github.com/sergiotechx/StarMakerSorobanV1S1/blob/main/fundamentosRust.md)
 
-Primeros pasos en Rust
+---
