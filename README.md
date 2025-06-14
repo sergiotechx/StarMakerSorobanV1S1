@@ -27,7 +27,7 @@ Dado que Rust no es similar a los lenguajes derivados de C, aprendamos algo de R
 
 **Reto:** 
 
-Hacer  fork del respositorio reto.
+Clonar el  respositorio reto. [https://github.com/sergiotechx/StarMakerSorobanV1RetoS1]
 
 Es un contrato con su respectivo test automatizado
 
@@ -45,6 +45,6 @@ Se ejecuta el test con la siguiente instrucción:
 cargo test
 ```
 
-Por último actualizar el repositorio de git con el contrato actualizado
+Por último cerar un repositorio propio con el contrato implementado
 
 😉**Pistas y guias para el reto:** https://developers.stellar.org/docs/build/smart-contracts
