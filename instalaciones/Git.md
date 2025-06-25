@@ -118,7 +118,7 @@ sudo port install git
 Copy
 
 ```plaintext
-apt-get install git
+sudo apt-get install git
 ```
 
 **Fedora/Red Hat 🎩**
