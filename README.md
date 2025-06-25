@@ -12,6 +12,7 @@ Lo primero es instalar y configurar el software necesario para poder ejecutar lo
 *   [☄️Cliente Stellar](https://github.com/sergiotechx/StarMakerSorobanV1S1/blob/main/instalaciones/clientestellar.md)
 *   [🚊NVM](https://github.com/sergiotechx/StarMakerSorobanV1S1/blob/main/instalaciones/nvm.md)
 *   [🌐Node Js](https://github.com/sergiotechx/StarMakerSorobanV1S1/blob/main/instalaciones/NodeJS.md)
+*   [📁 Git](https://github.com/sergiotechx/StarMakerSorobanV1S1/blob/main/instalaciones/Git.md)
 
 ---
 
