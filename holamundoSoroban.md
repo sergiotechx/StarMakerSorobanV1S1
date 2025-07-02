@@ -12,20 +12,16 @@ stellar contract init hello-world --name hello-world
 ```
 
 **Compilación**
-
+```plaintext
 stellar contract build
+```
 
 ⚠️ **Nota**
 
-**\* En mac y linux se cambia por \\**
-
-    **windows por** \`
+<table><tbody><tr><td><strong>Caracter</strong></td><td><strong>Sistema</strong></td><td><strong>se reemplaza por</strong></td></tr><tr><td>*</td><td>Mac y Linux<strong>&nbsp;</strong></td><td><strong>\</strong></td></tr><tr><td>*</td><td>Windows</td><td>`</td></tr><tr><td>@</td><td>Mac y Linux</td><td>/</td></tr><tr><td>@</td><td>Windows</td><td>\</td></tr></tbody></table>
 
 **Despliegue**
-**Linux/Mac**
-El separador de directorios es /
-**Windows**
-El separador de directorios es \
+
 ```plaintext
 stellar contract deploy *
  --wasm target@wasm32v1-none@release@hello_world.wasm *
