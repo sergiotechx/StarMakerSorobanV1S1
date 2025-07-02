@@ -39,6 +39,6 @@ stellar contract invoke *
 --source <entity> *
 --network testnet *
 -- *
-hello
+hello *
 --to "Stellar"
 ```
