@@ -22,10 +22,13 @@ stellar contract build
     **windows por** \`
 
 **Despliegue**
-
+**Linux/Mac**
+El separador de directorios es /
+**Windows**
+El separador de directorios es \
 ```plaintext
 stellar contract deploy *
- --wasm target\wasm32v1-none\release\hello_world.wasm *
+ --wasm target@wasm32v1-none@release@hello_world.wasm *
   --source <entity> *
   --network testnet *
   --alias hello_world
